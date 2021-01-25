@@ -1,4 +1,4 @@
-# DNS community blacklist
+# DNS community blacklist 1
 
 This is an example of a blacklist DNS git repository suitable for [NethServer Threat Shield](https://github.com/NethServer/nethserver-blacklist/).
 The blacklist has been generated using [Hosts](https://github.com/StevenBlack/hosts).
