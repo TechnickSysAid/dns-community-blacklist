@@ -2325,9 +2325,7 @@ report.clevernt.com
 sender.clevernt.com
 ui.clevernt.com
 api.cleverpush.com
-geoip-api.cleverpush.com
 static.cleverpush.com
-statistacomdev.cleverpush.com
 static.clevertap.com
 aorta.clickagy.com
 i.clickagy.com
@@ -6887,7 +6885,6 @@ sdk.api.qgraph.io
 sdk.qikify.com
 lcsdk.3g.qq.com
 masdk.3g.qq.com
-mazu.3g.qq.com
 pmir.3g.qq.com
 sasdk.3g.qq.com
 tgw-masdk.3g.qq.com
