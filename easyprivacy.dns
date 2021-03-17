@@ -515,6 +515,7 @@ events.ocdn.eu
 events.realgravity.com
 events.shareably.net
 events.splash-screen.net
+events.split.io
 events.tubecup.org
 events.whisk.com
 events.yourcx.io
@@ -717,6 +718,7 @@ pr.blogflux.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
+prd-collector-platform.ex.co
 processor.asccommunications.com
 production-mcs.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
@@ -1048,6 +1050,7 @@ wren.condenastdigital.com
 ws.audioeye.com
 wss.maven.io
 wstat.wibiya.com
+wtbevents.pricespider.com
 x.disq.us
 x.weather.com
 zdlogs.sphereup.com
@@ -2425,6 +2428,9 @@ a8.print-netsquare.com
 a8clk.xserver.ne.jp
 a8cv.amiami.jp
 afi.ssl.gmobb.jp
+custom.plausible.io
+ms.markosaric.com
+stats.twhl.xyz
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 a.20minutes.fr
 a.pourquoidocteur.fr
