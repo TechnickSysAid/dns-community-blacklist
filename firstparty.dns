@@ -9,7 +9,7 @@
 #
 
 ludwig
-127.0.0.1:39006
+127.0.0.1:39116
 /firstparty-trackers-hosts.txt
 hostfiles.frogeye.fr
 curl/8.5.0
@@ -17,12 +17,12 @@ curl/8.5.0
 gzip
 close
 PASS
-14c4024df0c6bc2e99ed169a77bb4f81
+21af497055ffc93e9fb77ad071d3728e
 DEFAULT
-128.24.68.116,
+104.42.30.218,
 hostfiles.frogeye.fr
 https
 hostfiles.frogeye.fr
-128.24.68.116
+104.42.30.218
 01b4cc78cd08e5eef7842d30fd5e7353
 
